@@ -4,14 +4,7 @@ sqlalchemy
 python-dotenv
 requests
 pypdf2
-google-generativeai
-fastapi
-uvicorn
-sqlalchemy
-python-dotenv
-requests
-pypdf2
-google-generativeai
+google-genai
 beanie
 motor
 passlib[argon2]
